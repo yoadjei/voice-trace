@@ -1,0 +1,44 @@
+{
+  "_sources": {
+    "injury_type": "Boateng et al. 2019 (Korle-Bu Teaching Hospital, n=17860)",
+    "sex": "Boateng et al. 2019",
+    "age_group": "Opoku et al. 2025 (systematic review, n=46 studies)",
+    "severity": "Opoku et al. 2025",
+    "body_region": "Boateng et al. 2019 / Mesic et al. 2024",
+    "location_type": "BRRI / Opoku et al. 2025"
+  },
+  "injury_type": {
+    "rta": 0.391,
+    "fall": 0.197,
+    "assault": 0.120,
+    "occupational": 0.164,
+    "burn": 0.085,
+    "drowning": 0.043
+  },
+  "sex": {
+    "male": 0.678,
+    "female": 0.322
+  },
+  "age_group": {
+    "child": 0.18,
+    "youth": 0.45,
+    "adult": 0.27,
+    "elderly": 0.10
+  },
+  "severity": {
+    "minor": 0.52,
+    "moderate": 0.31,
+    "severe": 0.17
+  },
+  "body_region": {
+    "head_neck": 0.38,
+    "limb": 0.44,
+    "trunk": 0.18
+  },
+  "location_type": {
+    "highway": 0.41,
+    "urban_road": 0.35,
+    "home": 0.24
+  },
+  "n_narratives": 120
+}
