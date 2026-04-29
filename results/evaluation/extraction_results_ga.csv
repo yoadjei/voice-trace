@@ -1,0 +1,7 @@
+field,f1,precision,recall
+injury_type,0.0,0.0,0.0
+severity,0.0,0.0,0.0
+body_region,0.0,0.0,0.0
+victim_sex,0.1009,0.5714,0.0559
+victim_age_group,0.0715,0.2364,0.2051
+MACRO AVG,0.0345,,

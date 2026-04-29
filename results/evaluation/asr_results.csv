@@ -1,0 +1,7 @@
+injury_type,overall_wer,n_references
+assault,0.4746,10
+burn,0.5007,8
+drowning,0.4944,5
+fall,0.532,13
+occupational,0.5016,10
+rta,0.5309,34
