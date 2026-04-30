@@ -1,0 +1,81 @@
+id,injury_type,mechanism,severity,body_region,victim_sex,victim_age_group,location_description
+0,rta,collision involving motorbike (pragya) in rainy conditions,severe,lower_limb,male,unknown,Damongo
+2,rta,motorcycle collision near market area,severe,head_neck,female,unknown,"Takoradi Market, Takoradi"
+4,rta,vehicle strike on road near Ejura,severe,multiple,female,unknown,"Ejura, Ashanti Region, Ghana"
+5,unknown,unknown,unknown,unknown,unknown,unknown,Kete Krachi
+7,unknown,"unclear from report, possible lower limb injury",severe,lower_limb,male,unknown,"Wa Central, Wa"
+9,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+10,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+11,occupational,"Hand injury at carpentry workshop, likely cutting tool",severe,upper_limb,male,youth,Assin Fosu
+13,occupational,child injured during cocoa farming work,moderate,lower_limb,female,child,"Dambai, Oti Region, Ghana"
+15,unknown,unknown,unknown,unknown,male,unknown,Cape Coast
+16,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+18,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+19,burn,Child exposed to kerosene stove fire at home,moderate,unknown,male,child,"Bantama, Kumasi"
+22,assault,"possible physical altercation, head area affected",unknown,head_neck,female,unknown,"Cape Coast-Elmina, Ghana"
+23,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+24,fall,possible fall with suspected bone fracture in elderly woman,severe,unknown,female,elderly,"Asokwa, Kumasi"
+25,assault,physical altercation resulting in death of a woman,severe,unknown,female,adult,Suhum
+27,fall,"child fell and injured foot, possible bone involvement",moderate,lower_limb,female,child,"Adum, Kumasi"
+28,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+32,assault,suspected physical threat or assault by stepfather at home,unknown,unknown,unknown,unknown,"Dichemso, Kumasi"
+33,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+37,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+38,unknown,unknown,unknown,unknown,unknown,unknown,"Yendi, Northern Region, Ghana"
+39,rta,"road traffic accident near Suame, Kumasi",severe,unknown,male,adult,"Suame, Kumasi"
+41,rta,road traffic accident on Accra-Kumasi highway,unknown,unknown,unknown,unknown,"Nsawam, Eastern Region, Ghana"
+42,occupational,workplace incident resulting in hand injury and coma,severe,multiple,male,adult,Savelugu
+44,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+45,rta,"Road traffic accident, child struck from behind",moderate,head_neck,female,child,"Hohoe-Jasikan road, Hohoe"
+46,unknown,unknown,unknown,unknown,unknown,unknown,Hohoe
+47,unknown,unknown,unknown,unknown,female,unknown,Axim
+49,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+52,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+53,unknown,unknown,unknown,unknown,female,unknown,Bawku
+54,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+55,rta,taxi involved in road accident near market area,unknown,unknown,female,unknown,Cape Coast
+56,rta,road traffic accident near a large gate or junction,severe,lower_limb,male,child,Dormaa Ahenkro
+57,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+63,assault,physical attack on a woman at a doorway,unknown,unknown,female,unknown,Goaso
+64,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+65,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+68,unknown,unknown,unknown,unknown,unknown,unknown,Yendi
+69,unknown,unknown,unknown,unknown,male,unknown,Cape Coast
+71,rta,"road traffic accident, possible back injury",unknown,trunk,unknown,unknown,Navrongo
+73,drowning,"child fell into open water, rescued by bystanders",moderate,upper_limb,male,child,"Mankessim, Central Region, Ghana"
+74,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+75,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+77,rta,vehicle collision on road between Takoradi and Cape Coast,severe,multiple,male,child,"Anomabo, Central Region, Ghana"
+78,unknown,unknown,unknown,unknown,unknown,unknown,Techiman
+81,rta,child struck by motor vehicle on road,severe,unknown,male,child,"Hohoe-Jasikan road, Hohoe"
+82,fall,"child fell, unable to bear weight on foot",moderate,lower_limb,female,child,unknown
+84,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+86,unknown,unknown,unknown,unknown,female,unknown,Tarkwa
+89,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+90,assault,"child injured with a knife, possible stabbing or cutting",severe,upper_limb,female,child,"Half Assini, Western Region, Ghana"
+91,burn,"explosion or blast injury at construction site, child involved",severe,unknown,male,child,"Tumu, Upper West Region, Ghana"
+92,unknown,unknown,unknown,unknown,male,unknown,Winneba
+93,unknown,unknown,unknown,unknown,male,unknown,Tumu
+94,rta,road traffic accident in Asokwa area,unknown,unknown,female,adult,"Asokwa, Kumasi"
+95,rta,vehicle collision on Bolgatanga-Bawku road,severe,head_neck,female,child,"Bolgatanga-Bawku road, Bolgatanga"
+96,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+98,unknown,unknown,unknown,unknown,unknown,child,"Dambai, Kete Krachi"
+99,fall,child fell and hit head at construction site,severe,head_neck,female,child,"Ofrikrom, Ghana"
+100,fall,heavy object fell on foot causing crush injury,moderate,lower_limb,male,unknown,Anomabo
+102,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+104,rta,road traffic accident near a school,unknown,unknown,male,youth,"Yendi Senior High School, Yendi"
+105,fall,fell from or near dormitory block structure,moderate,unknown,female,youth,"Winneba Senior High School, Winneba"
+106,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+107,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+108,drowning,near-drowning incident in swimming pool,moderate,unknown,female,youth,"Cape Coast, University of Cape Coast"
+110,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+111,rta,"motorcycle collision, possible fall or crash involvement",moderate,upper_limb,male,unknown,"Kumasi Academy, Kumasi"
+112,rta,child fell or was struck near taxi at school gate,moderate,lower_limb,unknown,child,"Adisadel College, Cape Coast"
+114,fall,"fall in car park, hand and head injured",moderate,multiple,female,youth,"Tamale Technical University, Tamale"
+115,assault,slap or physical altercation at school premises,minor,lower_limb,male,youth,"Navrongo Senior High School, Navrongo"
+116,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+118,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+121,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+122,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+123,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+124,unknown,unknown,unknown,unknown,unknown,unknown,unknown

@@ -1,0 +1,81 @@
+id,injury_type,mechanism,severity,body_region,victim_sex,victim_age_group,location_description
+0,unknown,unknown,unknown,unknown,male,unknown,Damongo
+2,rta,road traffic incident involving bus near Takoradi,unknown,multiple,unknown,unknown,"Takoradi area, near bus stop or road"
+4,rta,road traffic accident on Kumasi-Tamale road,severe,unknown,female,unknown,"Kumasi-Tamale road, near jewelry shop"
+5,fall,struck or hit by stone near palm tree,severe,unknown,female,adult,"Kete Krachi, near a palm tree"
+7,unknown,unknown,unknown,unknown,unknown,child,unknown
+9,rta,road incident on Kumasi-Cape Coast road near Mankesim,severe,unknown,unknown,unknown,"Kumasi-Cape Coast road, Mankesim area"
+10,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+11,unknown,unknown,unknown,unknown,unknown,unknown,"Assin Fosu area, possibly near a hospital"
+13,rta,"Taxi involved in road accident, possible pit or hazard",unknown,trunk,unknown,unknown,unknown
+15,unknown,unknown,unknown,unknown,unknown,unknown,"Cape Coast area, possibly residential setting"
+16,unknown,unknown,unknown,unknown,male,unknown,Cape Coast-Elmina road area
+18,burn,"fire exposure, possible skin loss reported",severe,unknown,unknown,unknown,Nhyiaso
+19,burn,kerosene stove flare-up causing burn injury,moderate,unknown,unknown,child,"Bantama neighborhood, Ghana"
+22,unknown,"possible road or motorcycle incident, details unclear",unknown,lower_limb,unknown,unknown,"Cape Coast-Elmina road, Ghana"
+23,unknown,unknown,unknown,unknown,unknown,unknown,"Tamale region, possibly Hamza area"
+24,unknown,unknown,unknown,unknown,unknown,unknown,"Asokaku, Kumasi"
+25,rta,road traffic incident near a bus stop,minor,unknown,unknown,child,"near a bus stop, unknown specific location"
+27,fall,slipped near a step or hole in ground,unknown,unknown,male,unknown,"Adum, Kumasi"
+28,unknown,unknown,unknown,unknown,unknown,unknown,"Kasoa area, possibly near Nwongway"
+32,assault,attack by unknown person in community area,unknown,unknown,male,adult,Dichemso community area
+33,rta,road traffic accident on Kumasi-Tamale road,severe,multiple,unknown,unknown,"Kumasi-Tamale road, Ghana"
+37,rta,taxi vehicle incident near family house,unknown,unknown,female,youth,"near family house, Navrongo area"
+38,unknown,unknown,unknown,unknown,unknown,unknown,"Savelugu, Tamale region, Northern Ghana"
+39,unknown,unknown,unknown,unknown,unknown,unknown,"Suame, Kumasi"
+41,unknown,unknown,unknown,unknown,male,unknown,"Accra-Nsawam road area, near Nsawam"
+42,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+44,unknown,unknown,unknown,upper_limb,female,elderly,unknown
+45,unknown,unknown,unknown,unknown,unknown,unknown,"Hohoe-Jasikan area, Volta Region, Ghana"
+46,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+47,unknown,unknown,unknown,unknown,female,elderly,Axim
+49,rta,road traffic accident on Hohoe-Jasikan road,unknown,trunk,male,unknown,"Hohoe-Jasikan road, near Slemana town area"
+52,unknown,unknown,unknown,unknown,unknown,unknown,Akih
+53,unknown,unknown,unknown,unknown,unknown,elderly,unknown
+54,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+55,unknown,unknown,unknown,unknown,unknown,child,Cape Coast
+56,rta,"road traffic accident near public road, possible fracture",severe,lower_limb,male,youth,"Dormaa Henkro, near a public road"
+57,burn,"hot water or cooking fire contact, possibly scalding",moderate,unknown,male,unknown,"unknown, possibly Tamale region"
+63,unknown,unknown,unknown,unknown,female,unknown,unknown
+64,occupational,cutting injury during household or farm work,moderate,upper_limb,male,adult,"Yendi, residential area"
+65,unknown,unknown,unknown,unknown,unknown,elderly,unknown
+68,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+69,unknown,unknown,unknown,unknown,female,adult,Cape Coast area
+71,rta,road traffic accident involving shared taxi vehicle,moderate,unknown,male,unknown,"Mutata, near Nagon area"
+73,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+74,rta,incident on Takoradi-Cape Coast highway near Anomabo,unknown,unknown,unknown,unknown,"Takoradi-Cape Coast highway, close to Anomabo"
+75,assault,attacked with a panga (machete or large blade),unknown,unknown,male,unknown,"unknown, possibly near or inside a house, Kintampo area"
+77,unknown,unknown,unknown,unknown,male,unknown,"Takoradi-Cape Coast area, near Anomabo river"
+78,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+81,rta,Motorbike or vehicle incident on Hohoe-Jasikan road,severe,trunk,male,adult,"Hohoe-Jasikan road, Volta Region, Ghana"
+82,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+84,rta,motorcycle crash into pothole on highway,severe,unknown,female,youth,"Accra-Cape Coast road, near Winneba"
+86,occupational,fall or entrapment in a pit mine,severe,unknown,male,youth,"Tarkwa mining area, Ghana"
+89,rta,road traffic incident on Tamale-Batanga road,unknown,unknown,male,adult,"Tamale-Batanga road, around Wallewale"
+90,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+91,occupational,unspecified incident at construction site,unknown,unknown,unknown,adult,"construction site, Tumu"
+92,unknown,unknown,unknown,unknown,unknown,unknown,"Accra-Cape Coast road, Winneba area"
+93,unknown,unknown,unknown,unknown,unknown,unknown,Tumu
+94,unknown,unknown,unknown,unknown,male,unknown,Kla Asoka village area
+95,burn,fire burn to back of hand,moderate,upper_limb,female,youth,"Botga-Bawku road, near Navergo area"
+96,rta,bicycle incident on Tamale-Yefini road near Savelugu,unknown,unknown,male,unknown,"Tamale-Yefini road, close to Savelugu side"
+98,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+99,occupational,incident at a construction site,unknown,unknown,unknown,unknown,"construction site, Oforikrom area, village location unclear"
+100,rta,"body movement on road near construction, possible vehicle impact",unknown,unknown,unknown,unknown,Takoradi-Cape Coast highway near Anomabo
+102,rta,"incident involving child near road, possible vehicle involvement",unknown,unknown,female,child,"Bawku road, near Zebilla"
+104,unknown,unknown,unknown,unknown,unknown,elderly,"Yendi Senior High School, Yendi, Ghana"
+105,unknown,unknown,unknown,unknown,male,unknown,"Winneba Senior High School, Winneba"
+106,unknown,unknown,unknown,unknown,unknown,unknown,near Ho Senior High School area
+107,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+108,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+110,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+111,drowning,"possible water-related incident, details unclear",unknown,unknown,male,adult,"Kumasi Academy, Kumasi, Ghana"
+112,rta,knocked down by a vehicle (checker/trotro),severe,unknown,male,youth,"Adisadel area, Cape Coast"
+114,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+115,unknown,unknown,unknown,unknown,male,unknown,Favergo Senior High School area
+116,rta,road traffic accident involving student named Baffour,unknown,unknown,male,youth,"Opoku Ware School, Kumasi"
+118,rta,road traffic accident near Bolgatanga Senior High School,severe,multiple,unknown,youth,"Bolgatanga Senior High School area, Bolgatanga"
+121,assault,altercation involving bottle and wall impact,moderate,head_neck,female,youth,"Wesley Girls school corridor, near Mfantsipim area"
+122,unknown,unknown,unknown,unknown,unknown,unknown,"Kumasi, Asante region"
+123,rta,"Child knocked down, likely struck by vehicle",unknown,unknown,unknown,child,"Near University of Ghana, Legon area"
+124,unknown,unknown,unknown,unknown,female,child,"Ashesi University area, possibly Berekuso"

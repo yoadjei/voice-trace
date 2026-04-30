@@ -1,0 +1,81 @@
+id,injury_type,mechanism,severity,body_region,victim_sex,victim_age_group,location_description
+0,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+2,assault,physical altercation in a market pit area,moderate,head_neck,male,adult,"Takoradi market, Takoradi"
+4,burn,"bush burning incident, person caught in bush fire",unknown,unknown,female,unknown,"Ejura, near Kumasi-Tamale road"
+5,unknown,unknown,unknown,unknown,unknown,unknown,Dambai
+7,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+9,assault,physical altercation between men over domestic dispute,unknown,upper_limb,male,adult,Mankessim
+10,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+11,unknown,possible animal bite or laceration to upper limb,moderate,upper_limb,male,child,unknown
+13,rta,taxi vehicle accident involving head injury,severe,head_neck,male,unknown,unknown
+15,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+16,unknown,unknown,unknown,unknown,male,adult,Cape Coast
+18,burn,child exposed to fire in household setting,unknown,head_neck,female,child,unknown
+19,unknown,unknown,unknown,unknown,unknown,unknown,"Bantama, Kumasi"
+22,unknown,unknown,unknown,unknown,unknown,unknown,Cape Coast
+23,unknown,unknown,unknown,unknown,male,adult,Tamale
+24,unknown,unknown,unknown,unknown,unknown,unknown,Kumasi
+25,rta,"involvement with a truck, possible vehicle collision",unknown,unknown,unknown,youth,unknown
+27,unknown,unknown,unknown,unknown,unknown,elderly,"Adum, Kumasi"
+28,unknown,unknown,unknown,unknown,male,elderly,Kasoa
+32,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+33,rta,road traffic accident on Kumasi-Tamale route,unknown,unknown,female,unknown,"Kumasi-Tamale road, Ghana"
+37,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+38,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+39,unknown,unknown,unknown,unknown,unknown,unknown,Kumasi
+41,unknown,unknown,unknown,unknown,unknown,elderly,Nsawam
+42,unknown,unknown,unknown,unknown,male,unknown,Savelugu
+44,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+45,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+46,unknown,unknown,unknown,unknown,unknown,unknown,Hohoe
+47,unknown,unknown,unknown,unknown,female,unknown,unknown
+49,unknown,unknown,unknown,unknown,unknown,unknown,"Hohoe, Volta Region, Ghana"
+52,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+53,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+54,unknown,unknown,unknown,unknown,unknown,unknown,Savelugu
+55,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+56,unknown,unknown,unknown,unknown,unknown,child,Dormaa Ahenkuro
+57,unknown,unknown,unknown,unknown,male,child,unknown
+63,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+64,assault,"struck on head by person, fell onto hard ground",severe,head_neck,male,adult,Yendi
+65,unknown,unknown,unknown,unknown,unknown,child,unknown
+68,unknown,unknown,unknown,unknown,male,unknown,Yendi
+69,rta,road traffic accident involving a young male trader,moderate,unknown,male,youth,Cape Coast
+71,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+73,unknown,unknown,unknown,unknown,unknown,unknown,Mankessim
+74,unknown,unknown,unknown,unknown,unknown,unknown,"Anomabo, Central Region, Ghana"
+75,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+77,rta,road traffic accident on Takoradi-Cape Coast route,unknown,unknown,male,unknown,"Anomabo, Central Region, Ghana"
+78,unknown,unknown,severe,unknown,male,unknown,Techiman
+81,unknown,possible hand injury involving unknown object or substance,moderate,upper_limb,unknown,child,"Hohoe, Volta Region, Ghana"
+82,unknown,unknown,unknown,unknown,female,unknown,unknown
+84,unknown,unknown,unknown,unknown,unknown,unknown,Winneba
+86,unknown,unknown,unknown,unknown,male,unknown,unknown
+89,unknown,unknown,unknown,upper_limb,unknown,child,Tamale
+90,assault,physical altercation involving hand strike causing bleeding,unknown,unknown,female,unknown,Axim
+91,fall,fell while painting at height on a building,moderate,head_neck,male,adult,unknown
+92,occupational,"injury at construction site, arm affected",moderate,upper_limb,male,unknown,Winneba
+93,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+94,rta,"road traffic accident, details unclear",unknown,unknown,unknown,elderly,unknown
+95,unknown,unknown,unknown,head_neck,unknown,child,Bolgatanga
+96,unknown,unknown,unknown,unknown,unknown,unknown,Savelugu
+98,drowning,"victim submerged in water, possibly during funeral gathering",severe,unknown,male,unknown,Dambai
+99,occupational,falling or struck by debris at construction site,unknown,unknown,male,unknown,unknown
+100,unknown,unknown,unknown,unknown,unknown,unknown,Anomabo
+102,unknown,unknown,unknown,unknown,unknown,child,"Bawku, Upper East Region"
+104,burn,caught in a fire at school premises,unknown,unknown,male,unknown,"Yendi Senior High School, Yendi"
+105,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+106,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+107,unknown,unknown,unknown,unknown,unknown,child,Accra
+108,drowning,submerged in swimming pool water,unknown,unknown,male,unknown,"University of Cape Coast, Cape Coast"
+110,unknown,unknown,unknown,unknown,unknown,unknown,Kumasi
+111,assault,"hands beaten, arm possibly injured during domestic dispute",unknown,upper_limb,female,unknown,Kumasi
+112,unknown,unknown,unknown,unknown,male,unknown,Cape Coast
+114,unknown,possible crush or impact from engineering block structure,moderate,unknown,female,youth,"Tamale Technical University, Tamale"
+115,unknown,unknown,unknown,unknown,male,unknown,Navrongo
+116,unknown,unknown,unknown,unknown,male,unknown,Kumasi
+118,unknown,unknown,unknown,unknown,unknown,unknown,Bolgatanga
+121,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+122,unknown,unknown,unknown,unknown,unknown,unknown,Kumasi
+123,assault,"physical abuse by senior students, restraint and forced feeding",moderate,multiple,male,youth,"University of Ghana, Legon, Accra"
+124,unknown,unknown,unknown,unknown,unknown,unknown,"Ashesi University, Berekuso"
