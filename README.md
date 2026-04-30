@@ -4,13 +4,19 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Live-22D3EE.svg)](https://voice-trace.streamlit.app/)
 
 VoiceTrace is a five-stage NLP pipeline that accepts a spoken injury report in any of five Ghanaian languages and produces two outputs from the same call:
 1. A spoken first-aid response in the caller's language
 2. A structured, geocoded record for health surveillance
 
+![VoiceTrace Dashboard](assets/dashboard-preview.png)
+
+**[View Live Dashboard](https://voice-trace.streamlit.app/)**
+
 ## Table of Contents
 
+- [Dashboard](#dashboard)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Project Structure](#project-structure)
@@ -20,6 +26,23 @@ VoiceTrace is a five-stage NLP pipeline that accepts a spoken injury report in a
 - [Reproduction](#reproduction)
 - [Citation](#citation)
 - [License](#license)
+
+## Dashboard
+
+The surveillance dashboard is live at **[voice-trace.streamlit.app](https://voice-trace.streamlit.app/)**
+
+Features:
+- Real-time incident map with severity-coded markers
+- Language distribution visualization
+- Incident feed with filtering by type, language, and severity
+- Facility referral tracking
+- First aid guidance display
+
+To run locally:
+
+```bash
+streamlit run dashboard/app.py
+```
 
 ## Installation
 
