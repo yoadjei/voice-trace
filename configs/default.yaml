@@ -1,0 +1,159 @@
+# VoiceTrace Configuration
+# All parameters centralized here for reproducibility
+
+# ============================================================
+# Random Seeds (for reproducibility)
+# ============================================================
+seeds:
+  numpy: 42
+  python: 42
+  # Note: Claude API calls are not deterministic; temperature=0.2
+  # provides low variance but not true reproducibility
+
+# ============================================================
+# Data Paths
+# ============================================================
+paths:
+  data_root: "data"
+  synthetic_data: "data/synthetic"
+  raw_data: "data/raw"
+  audio_dir: "data/synthetic/audio"
+  results_dir: "results"
+  evaluation_dir: "results/evaluation"
+  
+  # Key data files
+  gold_annotations: "data/synthetic/gold_annotations.csv"
+  narratives_en: "data/synthetic/narratives_en.csv"
+  eval_subset_ids: "data/synthetic/evaluation_subset_ids.txt"
+  distributions: "data/distributions/ghana_injury_distributions.json"
+  health_facilities: "data/raw/hotosm_gha_health_facilities_polygons_geojson.geojson"
+
+# ============================================================
+# Languages
+# ============================================================
+languages:
+  # Five evaluated languages
+  evaluated:
+    - twi
+    - fante
+    - ewe
+    - ga
+    - dagbani
+  
+  # Khaya API language codes
+  codes:
+    twi: "tw"
+    fante: "fat"
+    ewe: "ee"
+    ga: "gaa"
+    dagbani: "dag"
+
+# ============================================================
+# Corpus Generation
+# ============================================================
+corpus:
+  num_narratives: 126
+  eval_subset_size: 80
+  max_tts_chars: 450  # Khaya TTS character limit
+  
+  # Sampling distributions (from Boateng et al. 2019, Opoku et al. 2025)
+  distributions:
+    injury_type:
+      rta: 0.391
+      fall: 0.197
+      assault: 0.120
+      burn: 0.085
+      drowning: 0.043
+      occupational: 0.164
+    sex:
+      male: 0.678
+      female: 0.322
+    age_group:
+      child: 0.18      # <15
+      youth: 0.45      # 15-34
+      adult: 0.27      # 35-54
+      elderly: 0.10    # 55+
+    severity:
+      minor: 0.52
+      moderate: 0.31
+      severe: 0.17
+    body_region:
+      head_neck: 0.38
+      limb: 0.44
+      trunk: 0.18
+    location_type:
+      highway: 0.41
+      urban_road: 0.35
+      home: 0.24
+
+# ============================================================
+# API Configuration
+# ============================================================
+api:
+  khaya:
+    base_url: "https://translation-api.ghananlp.org"
+    asr_endpoint: "/asr/v3/transcribe"
+    mt_endpoint: "/v1/translate"
+    tts_endpoint: "/tts/v2/tts"
+    timeout_seconds: 60
+    rate_limit_delay: 0.5  # seconds between calls
+  
+  anthropic:
+    model: "claude-sonnet-4-6"
+    max_tokens: 800
+    temperature: 0.2  # Low for consistency in extraction
+  
+  nominatim:
+    base_url: "https://nominatim.openstreetmap.org"
+    user_agent: "VoiceTrace/1.0"
+    country_code: "gh"  # Ghana
+
+# ============================================================
+# Extraction Schema
+# ============================================================
+extraction:
+  fields:
+    - injury_type
+    - mechanism
+    - severity
+    - body_region
+    - victim_sex
+    - victim_age_group
+    - location_description
+  
+  categorical_fields:  # Used for F1 evaluation
+    - injury_type
+    - severity
+    - body_region
+    - victim_sex
+    - victim_age_group
+  
+  valid_values:
+    injury_type: [rta, fall, assault, burn, drowning, occupational, unknown]
+    severity: [minor, moderate, severe, unknown]
+    body_region: [head_neck, upper_limb, lower_limb, trunk, multiple, unknown]
+    victim_sex: [male, female, unknown]
+    victim_age_group: [child, youth, adult, elderly, unknown]
+
+# ============================================================
+# Evaluation
+# ============================================================
+evaluation:
+  metrics:
+    - wer          # Word Error Rate for ASR
+    - bleu         # BLEU for translation round-trip
+    - bertscore    # BERTScore for semantic similarity
+    - f1           # Macro-F1 for extraction
+    - kappa        # Cohen's kappa for agreement
+  
+  kappa_thresholds:
+    substantial: 0.60
+    near_perfect: 0.80
+
+# ============================================================
+# Runtime
+# ============================================================
+runtime:
+  num_workers: 1  # Sequential for reproducibility
+  verbose: true
+  log_level: "INFO"
