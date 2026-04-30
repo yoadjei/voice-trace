@@ -1,0 +1,81 @@
+id,injury_type,mechanism,severity,body_region,victim_sex,victim_age_group,location_description
+0,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+2,rta,"motorcycle collision, victim thrown to ground",severe,head_neck,male,unknown,Takoradi market area
+4,rta,vehicle collision causing abdominal and chest injuries,severe,trunk,male,child,"Kumasi-Tamale road, near Ejura"
+5,occupational,carrying heavy load caused back and abdominal injury,severe,trunk,female,elderly,"near Kete Krachi road, around Dambai area"
+7,rta,struck by vehicle on road,severe,lower_limb,male,youth,"Wa Central, on the road"
+9,assault,"young girl beaten by men, arm severely injured",severe,upper_limb,female,child,"Kumasi-Cape Coast road, near Mankessim"
+10,burn,pressurized pot steam and boiling water contact on hand,moderate,upper_limb,female,unknown,"residential flat, Adenta"
+11,occupational,wood fell and cut hand during carpentry work,moderate,upper_limb,male,child,"carpentry workshop, Assin Fosu"
+13,rta,taxi vehicle collision on road,moderate,lower_limb,female,child,"Dambai, on the road"
+15,assault,struck on head by another person during altercation,moderate,head_neck,male,adult,"residential home, Cape Coast"
+16,burn,contact with hot substance or fire affecting hand,minor,upper_limb,male,elderly,road between Cape Coast and Elmina
+18,fall,"fell from height while working, landed on abdomen and side",moderate,trunk,male,adult,"Nhyiaeso, at home"
+19,burn,Kerosene stove flare-up ignited clothing from behind,moderate,trunk,male,unknown,"Roadside food stall, Bantama"
+22,rta,vehicle collision on Cape Coast-Elmina road,severe,head_neck,female,unknown,"Cape Coast-Elmina road, roadside"
+23,rta,child struck by vehicle on road while returning home,severe,lower_limb,male,child,"Tamale, near family house on road"
+24,drowning,"elderly man fell into water, rescued by companion",severe,head_neck,male,elderly,"Asokwa, Kumasi"
+25,rta,pedestrian struck by minibus while crossing road,moderate,lower_limb,female,elderly,"Suhum, roadside where victim was crossing"
+27,fall,Fell and hit head near a doorway,severe,head_neck,male,elderly,"Adum, Kumasi, near a door entrance"
+28,fall,"elderly man fell, possibly tripped at roadside",moderate,lower_limb,male,elderly,N1 Highway near Kasoa
+32,assault,"beaten by men, blows to head and neck",severe,head_neck,male,elderly,"Dichemso, near entrance of residence"
+33,rta,vehicle collision on Kumasi-Tamale road near Ejura,severe,head_neck,female,unknown,Kumasi-Tamale road near Ejura
+37,rta,taxi vehicle struck child's leg near home,moderate,lower_limb,female,child,"in front of family home, Navrongo"
+38,rta,struck by bicycle while working near roadside farm,moderate,trunk,female,elderly,"Savelugu area, along Tamale-Yendi road, roadside farm"
+39,rta,struck by vehicle near home while walking,moderate,trunk,female,unknown,"Suame area, Kumasi, near the victim's home"
+41,rta,vehicle struck victim from behind while crossing road,severe,multiple,male,youth,Accra-Kumasi highway near Nsawam
+42,assault,"pushed to ground, arm twisted during robbery attempt",moderate,upper_limb,male,elderly,"Savelugu, evening time"
+44,fall,Elderly woman fell from raised platform or steps indoors,severe,lower_limb,female,elderly,"Dansoman, inside a residential building"
+45,rta,Child struck from behind by trotro minibus,moderate,multiple,female,child,"Hohoe-Jasikan road, Ghana"
+46,assault,attacked and beaten by unknown persons on road,moderate,head_neck,male,unknown,Hohoe-Jasikan road
+47,fall,"slipped on stairs, fell at home",moderate,upper_limb,female,unknown,"private residence, Axim"
+49,rta,child fell from bicycle onto road,moderate,trunk,male,child,Hohoe-Jasikan road
+52,drowning,Child submerged in water for prolonged period before rescue,severe,multiple,male,child,"Sunyani, near a body of water"
+53,fall,Child fell from a large mango tree,moderate,upper_limb,female,child,"Bawku, in front of a house"
+54,occupational,heavy load fell onto victim while offloading truck,moderate,trunk,male,youth,Tamale-Yendi road near Savelugu
+55,rta,child struck by taxi on road near market,moderate,head_neck,female,child,"Cape Coast, road near market area"
+56,rta,"vehicle collision on major road, suspected leg fracture",severe,lower_limb,male,youth,"near major road, Dormaa Ahenkro"
+57,burn,hot water spilled onto chest and abdomen,moderate,trunk,male,child,family home in Tamale
+63,rta,motorbike collision causing fall on road,moderate,head_neck,female,unknown,"Goaso, on the road"
+64,occupational,sharp object cut hand during home work,moderate,upper_limb,male,unknown,"Yendi, home setting"
+65,burn,fire contact to neck and abdomen area,severe,multiple,male,child,"Kintampo area, road towards Kumasi"
+68,assault,person attacked and arm severely beaten by assailant,moderate,upper_limb,male,elderly,"Yendi, victim's home"
+69,rta,struck by trotro (minibus) on road,moderate,lower_limb,male,youth,"roadside, Cape Coast"
+71,rta,"shared taxi road collision, lower leg injury",moderate,lower_limb,male,youth,"Navrongo, along a road"
+73,drowning,"Child fell into roadside water body, briefly submerged",moderate,upper_limb,male,child,"Mankessim area, along Kumasi-Cape Coast road"
+74,rta,"vehicle collision, victim thrown and hit road",severe,head_neck,male,child,"Takoradi-Cape Coast road, near Anomabo"
+75,assault,beaten severely by unknown persons on the road,severe,head_neck,male,elderly,"roadside near Kintampo, on the road to Tamale"
+77,rta,"vehicle struck pedestrian on roadside, victim fell",moderate,multiple,male,youth,"Anomabo, road between Takoradi and Cape Coast"
+78,fall,"fell backwards at home, head struck ground hard",severe,head_neck,male,youth,"Techiman, inside home"
+81,rta,motorcycle (pragyia) crash on Hohoe-Jasikan road,moderate,upper_limb,male,child,"Hohoe-Jasikan road, Volta Region, Ghana"
+82,rta,motorcycle collision on road involving young male,moderate,lower_limb,male,youth,"Wa Central, road accident scene"
+84,rta,passenger in trotro struck by another vehicle,moderate,lower_limb,female,child,"Accra-Cape Coast road, near Winneba"
+86,rta,vehicle collision on road near victim's home,severe,lower_limb,female,elderly,"roadside near family home, Tarkwa"
+89,assault,person beaten severely on head and neck,severe,head_neck,male,child,"Tamale-Bolgatanga road, near Walewale"
+90,occupational,"hand caught and pulled into machine, heavy bleeding",severe,upper_limb,male,child,"Axim road, Kokuom, Half Assini"
+91,occupational,heavy object fell onto abdomen and shoulder at construction site,severe,multiple,male,child,construction site in Tumu
+92,occupational,object fell onto worker's hand at construction site,moderate,upper_limb,male,youth,construction site near Winneba along Accra-Cape Coast road
+93,fall,"slipped and fell, head struck the ground",moderate,head_neck,male,unknown,compound area in Tumu
+94,rta,road traffic accident in local area,moderate,trunk,male,elderly,"Asokwa, local residential area"
+95,burn,burn affecting neck and head area,moderate,head_neck,female,child,"Bolgatanga-Bawku road, area behind Navrongo"
+96,fall,Child fell off bicycle on roadside,minor,lower_limb,male,child,"Tamale-Yendi road, near Savelugu area"
+98,drowning,"Child submerged in water, unresponsive after rescue",severe,head_neck,male,child,"Near Kete Krachi road, close to Dambai, water body"
+99,fall,"object fell on head at construction site, victim fell down",severe,head_neck,male,youth,construction site near Oforikrom
+100,occupational,Heavy construction equipment fell onto victim's leg,severe,lower_limb,male,unknown,"Construction site on road near Anomabo, between Takoradi and Cape Coast"
+102,rta,child struck by tipper truck while walking on road,severe,head_neck,female,child,Bawku road near Zebilla
+104,rta,motorbike struck student near school entrance,moderate,lower_limb,unknown,child,"Yendi Senior High School entrance, Yendi"
+105,fall,"fell down staircase near dormitory, head hit step",moderate,multiple,female,youth,"Winneba Senior High School, staircase near dormitory block"
+106,rta,struck by reversing school bus while walking in compound,severe,head_neck,female,elderly,"Ho Senior High School compound near dining hall, Ho, Ghana"
+107,rta,"motorcycle (okada) crash, victim thrown and head hit ground",moderate,head_neck,female,youth,"UPSA campus main gate, Accra"
+108,drowning,submerged in swimming pool during recreational swim,moderate,upper_limb,male,youth,"swimming pool, Cape Coast University"
+110,burn,Bunsen burner flame ignited and burned hand,moderate,upper_limb,male,youth,"T.I. AMASS school science laboratory, Kumasi"
+111,fall,"fell from bicycle, landed hard on outstretched hand",moderate,upper_limb,female,youth,"Kumasi Academy, sports block area"
+112,rta,passenger thrown from taxi after vehicle collision,moderate,lower_limb,male,adult,"near Adisadel College gate, Cape Coast"
+114,rta,struck and run over by reversing campus bus,severe,head_neck,female,youth,"car park near engineering block, Tamale Technical University"
+115,rta,school maintenance pickup vehicle struck pedestrian on compound,moderate,lower_limb,male,adult,"Navrongo Senior High School compound, near workshop"
+116,burn,hot cooking pot contacted abdomen during home economics class,minor,trunk,male,youth,"Opoku Ware School, Kumasi, home economics practical class"
+118,fall,fell down stairs from upper floor of dormitory block,severe,multiple,female,youth,Bolgatanga Senior High School dormitory block staircase
+121,assault,"struck on head with water bottle, fell against wall",moderate,head_neck,female,youth,Wesley Girls dormitory corridor
+122,fall,fell from wall or fence at night during storm,severe,lower_limb,male,youth,"Prempeh College, Kumasi"
+123,assault,"physical beating by senior students, repeated blows to abdomen and back",severe,multiple,male,youth,"University of Ghana, Legon, student halls of residence"
+124,fall,fell and struck head against desk in dormitory room,moderate,head_neck,female,youth,"Ashesi University, dormitory room"
